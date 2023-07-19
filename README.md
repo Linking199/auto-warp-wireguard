@@ -6,7 +6,7 @@
 
 # 使用方法
 ## 使用方法1（自动生成新的warp+ key）
-1. 直接双击运行**“V1_一键生成wireguard配置文件.exe”  **
+1. 直接双击运行** “V1_一键生成wireguard配置文件.exe” **
 2. 程序运行完之后，会产生wireguard_conf文件夹，里面的.conf文件可以直接导入wireguard使用  
 所得到的配置文件是由随机克隆的warp+密钥得到的，因此每个人获得的配置文件都是独特的且一般有20~24Pb的warp流量  
 
@@ -38,7 +38,7 @@ It applies to Windows 10 and Windows 11
 
 # Usage
 ##Use Method 1 (automatically generate new warp+ key) 
-1. Double-click the wireguard configuration file and run **"V1_一键生成wireguard配置文件.exe"**.
+1. Double-click the wireguard configuration file and run ** "V1_一键生成wireguard配置文件.exe" **.
 2. After the procedure is done, the wireguard_conf folder is generated. You can import the.conf file to the WireGuard  
 The resulting profile is obtained by randomly cloning the warp+ key, so each person gets a unique profile and generally has 20 to 24 petabytes of warp traffic  
 
@@ -47,7 +47,7 @@ The resulting profile is obtained by randomly cloning the warp+ key, so each per
 2. Run code: 
 > V1_一键生成wireguard配置文件.exe [your warp+ key]
 
-> For example, 
+For example, 
 > V1_一键生成wireguard配置文件.exe  xxxx-xxxx-xxxxxx-xxx  
 
 3. After the procedure is done, the wireguard_conf folder is generated. You can import the.conf file to the WireGuard  
