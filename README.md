@@ -46,6 +46,7 @@ The resulting profile is obtained by randomly cloning the warp+ key, so each per
 1. Open the command prompt and go to the directory where v1_One-Click wireguard Configuration file. exe is located  
 2. Run code: 
 > V1_一键生成wireguard配置文件.exe [your warp+ key]
+
 > For example, 
 > V1_一键生成wireguard配置文件.exe  xxxx-xxxx-xxxxxx-xxx  
 
