@@ -42,7 +42,7 @@ It applies to Windows 10 and Windows 11
 2. After the procedure is done, the wireguard_conf folder is generated. You can import the.conf file to the WireGuard  
 The resulting profile is obtained by randomly cloning the warp+ key, so each person gets a unique profile and generally has 20 to 24 petabytes of warp traffic  
 
-## To use Method 2 (warp+ key provided by you) 
+## To use Method 2 (warp+ key provided by yourself) 
 1. Open the command prompt and go to the directory where v1_One-Click wireguard Configuration file. exe is located  
 2. Run code: 
 > V1_一键生成wireguard配置文件.exe [your warp+ key]
